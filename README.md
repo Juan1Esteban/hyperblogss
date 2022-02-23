@@ -9,5 +9,7 @@ un blog increible para el curso de platzi
 * Mucha dedicación
 * La verdadera inspiración dentro de un corazon roto
 * Creado por el increible pltzi teem
+* Incluye ejemplos e linux y mac
+
 
 Y como amable recordatorio [te invito a que la escuches](http://www.youtube.com/watch?v=ZlFri4ez_lE&list=RDZlFri4ez_lE&index=1 "te invito a que la escuches"). 
